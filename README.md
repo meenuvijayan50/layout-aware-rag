@@ -297,6 +297,11 @@ The Streamlit UI supports:
 
 ---
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d207717d-3b38-4d39-b7b6-72729e2ed707" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3b7daead-4610-4f8f-9004-3e0edbab69de" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94909048-f7fe-4e5c-8975-11737478ccd2" />
+
+
+
 
 # Author
 
