@@ -78,7 +78,7 @@ Final Response + Retrieved Sources
 # Project Structure
 
 ```text
-layout-aware-rag/
+
 │
 ├── app/
 │   ├── ingestion/
@@ -135,8 +135,8 @@ layout-aware-rag/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/layout-aware-rag.git
-cd layout-aware-rag
+git clone https://github.com/meenuvijayan50/layout-aware-rag.git
+
 ```
 
 ---
