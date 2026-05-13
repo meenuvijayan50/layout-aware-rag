@@ -1,0 +1,21 @@
+# Virtual environment
+.env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Qdrant
+qdrant_storage/
+
+# Models/cache
+.cache/
+huggingface/
+
+# OS files
+.DS_Store
+Thumbs.db

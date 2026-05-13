@@ -1,0 +1,17 @@
+streamlit
+pymupdf
+pillow
+pytesseract
+sentence-transformers
+qdrant-client
+rank-bm25
+numpy
+scikit-learn
+transformers
+torch
+torchvision
+ollama
+langchain
+langchain-community
+unstructured
+accelerate
