@@ -296,6 +296,7 @@ The Streamlit UI supports:
 - Research-paper analysis
 
 ---
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d207717d-3b38-4d39-b7b6-72729e2ed707" />
 
 # Author
 
